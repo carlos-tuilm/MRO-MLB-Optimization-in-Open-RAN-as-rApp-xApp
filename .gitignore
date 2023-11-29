@@ -12,3 +12,4 @@
 .eclipse
 workspace
 get_helm.sh
+private_files
